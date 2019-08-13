@@ -2,7 +2,9 @@
 
 #### 2.VMware 설치 및 VM 옵션 설정
 
+```
 
+```
 
 
 
@@ -10,15 +12,17 @@
 
 Edit virtual machine settings를 클릭해서 VM옵션 수정을한다.
 
+```
 
+```
 
 
 
 10.원활한 작업 속도를 위해 Memory를 4GB로 설정.
 
+```
 
-
-
+```
 
 11.Hard Disk(SCSI)삭제 후, 새로운 하드디스크를 생성.
 
@@ -28,7 +32,9 @@ Edit virtual machine settings를 클릭해서 VM옵션 수정을한다.
 
 cf. SCSI = 서버나 워크스테이션 등에 쓰이는 고속 인터페이스다.
 
+```
 
+```
 
 
 
@@ -42,7 +48,9 @@ cf. VMDK= Virtual Machine Disk 의 약자로 VMware 또는 VirtualBox 와 같은
 
 cf. 가상 이미지 제공 사이트인 [osboxes.org](https://osboxes.org/) 사이트에서 원하는 파일을 받으면VMDK 이미지 파일을 확인 할 수있다!   
 
+```
 
+```
 
 
 

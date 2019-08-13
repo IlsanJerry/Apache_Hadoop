@@ -2,9 +2,9 @@
 
 #### 1.VMware 설치 및 VM 옵션 설정
 
+```
 
-
-
+```
 
 1.VMware 설치를 위해 https://www.vmware.com/kr.html 에서   
 
@@ -14,8 +14,6 @@ VMware를 설치한다.
 
 ```
 
-
-
 2.VMware 작업을 위한 하위 디렉토리들을 만들어 놓는다  
 
 (Ex. C:/CentOS/ 에서 linuxM, m1,m2,m3,m4)  
@@ -24,13 +22,11 @@ VMware를 설치한다.
 
 ```
 
-
-
 3.Vmware 실행 후 , Create a New Virtual Machine 클릭  
 
+```
 
-
-
+```
 
 4.Operating System을 어떻게 설치할거냐는 옵션에  
 
@@ -38,7 +34,9 @@ I will install the operating system later. 선택
 
 (추후에 ISO 디스크 이미지 파일을 VM에 직접 넣어줄 예정.)  
 
+```
 
+```
 
 
 
@@ -46,7 +44,9 @@ I will install the operating system later. 선택
 
 (operating system - Linux) (Version - CentOS 64-bit로 설정.)   
 
+```
 
+```
 
 
 
@@ -54,7 +54,9 @@ I will install the operating system later. 선택
 
 (Location 또한 이름과 동일하게 C:\CentOS\linuxM으로 설정한다. )  
 
+```
 
+```
 
 
 
@@ -68,7 +70,9 @@ Store virtual disk as a single file :
 단점: 파일 하나의 최대 크기가 증가 50GB까지 증가해서    
 대용량 파일 복사시, 문제가 발생 할 수 있음.  
 
+```
 
+```
 
 
 
@@ -78,7 +82,9 @@ Store virtual disk as a single file :
 단점 : 성능측면에서 multiple보다는 single 이 더 좋다.    
 (호스트PC의 하드디스크가 FAT32일때 선택)    
 
+```
 
+```
 
 
 
