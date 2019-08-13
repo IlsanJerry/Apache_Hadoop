@@ -10,7 +10,9 @@
 
 VMware를 설치한다.
 
+```
 
+```
 
 
 
@@ -18,7 +20,9 @@ VMware를 설치한다.
 
 (Ex. C:/CentOS/ 에서 linuxM, m1,m2,m3,m4)  
 
+```
 
+```
 
 
 
@@ -78,4 +82,4 @@ Store virtual disk as a single file :
 
 
 
-8.VM 완성!!     
+8.VM 완성!! !!
