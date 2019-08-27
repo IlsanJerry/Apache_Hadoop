@@ -2,7 +2,7 @@
 
 
 
-![HDFS_WriteProcess](C:\Users\student\Desktop\HDFS_read_write_이미지들\HDFS_WriteProcess.jpg)
+![HDFS_WriteProcess](C:\Users\student\Desktop\Apache_Hadoop\assets\HDFS_WriteProcess.jpg)
 
 -------------------------HDFS Write Process-------------------------------
 

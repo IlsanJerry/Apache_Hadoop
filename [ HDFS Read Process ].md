@@ -2,7 +2,7 @@
 
 
 
-![HdfsImage](C:\Users\student\Desktop\HDFS_read_write_이미지들\HdfsImage.jpg)------------------------- HDFS Read Process------------------------------
+![HdfsImage](C:\Users\student\Desktop\Apache_Hadoop\assets\HdfsImage.jpg)------------------------- HDFS Read Process------------------------------
 
 (1) 클라이언트는 FileSystem(DistributedFileSystem) 객체의 'open ()' 메소드를 호출하여 읽
 
