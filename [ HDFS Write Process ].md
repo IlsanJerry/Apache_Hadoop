@@ -2,7 +2,7 @@
 
 
 
-![HDFS_WriteProcess](C:\Users\student\Desktop\Apache_Hadoop\assets\HDFS_WriteProcess.jpg)
+![HDFS_WriteProcess](./assets/HDFS_WriteProcess.jpg)
 
 -------------------------HDFS Write Process-------------------------------
 
